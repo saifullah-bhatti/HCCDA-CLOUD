@@ -5,7 +5,7 @@ This lab demonstrates how I used Huawei ModelArts' **Intelligent Labeling** tool
 ---
 
 ### 📸 Step 1: Upload Dataset
-![Step 1](images/step1.png)  
+![Step 1](images/1.png)  
 I uploaded an image dataset to Huawei ModelArts in preparation for intelligent labeling.
 
 ---
