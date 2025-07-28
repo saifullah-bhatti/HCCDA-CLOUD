@@ -58,6 +58,7 @@ Manually verified and corrected auto-labeling results:
 - Confirmed accurate labels
 - Deleted incorrect labeling boxes
 - Added missing labels manually
+![ModelArts Console](images/11.png)
 
 ### 7. Feature Analysis
 Completed feature analysis on the labeled dataset to prepare for model training.
